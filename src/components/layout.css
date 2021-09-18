@@ -199,7 +199,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: hsla(0, 0%, 72%, 0.8);  
+  color: hsla(0, 0%, 0%, 0.8);  
   font-family: georgia, serif;
   font-weight: normal;
   word-wrap: break-word;
@@ -403,7 +403,7 @@ pre {
   margin-bottom: 1.45rem;
   font-size: 0.85rem;
   line-height: 1.42;
-  background: hsla(0, 0%, 0%, 0.04);
+  background: hsla(0, 0%, 72%, 0.04);
   border-radius: 3px;
   overflow: auto;
   word-wrap: normal;
