@@ -25,7 +25,7 @@ module.exports = {
 
         theme_color: `#014421`, // `#663399`
         display: `minimal-ui`,
-        icon: `src/images/leonardSide.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/leonardFilter1.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
